@@ -8,4 +8,8 @@
 
 ## code-collection-server
 
+[mybatis-sqlify-1.0.1.jar](https://raw.githubusercontent.com/tanghuibo/package/master/code-collection-server/code-collection-server-1.0.1.jar)
+
+### 历史版本
+
 [mybatis-sqlify-1.0.0.jar](https://raw.githubusercontent.com/tanghuibo/package/master/code-collection-server/code-collection-server-1.0.0.jar)
